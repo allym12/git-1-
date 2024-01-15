@@ -1,0 +1,7 @@
+<?php
+
+return [
+
+    'PAYPACK_CLIENT_ID' => '595c0414-2045-11ee-81c5-dead2087f936',
+    'PAYPACK_CLIENT_SECRET' => '62a35a0e97e6ccaa917f970d297057aada39a3ee5e6b4b0d3255bfef95601890afd80709',
+];
